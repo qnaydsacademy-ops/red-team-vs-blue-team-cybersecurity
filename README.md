@@ -1,6 +1,7 @@
 # Red Team vs Blue Team: Cybersecurity Career Paths
 ![Uploading WhatsApp Image 2026-10-10 at 13.56.32.jpg…]()
 
+
 ## Introduction
 
 Cybersecurity includes different specializations that help organizations protect their digital systems. Two important areas are Red Team operations and Blue Team defence.
