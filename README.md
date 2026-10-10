@@ -1,5 +1,5 @@
 # Red Team vs Blue Team: Cybersecurity Career Paths
-![Uploading WhatsApp Image 2026-10-10 at 13.56.32.jpg…]()
+
 
 
 ## Introduction
